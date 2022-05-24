@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TamilarasanRavindrakumar
+- 👀 I’m interested in SolidEdge API
+- 🌱 I’m currently learning VB.Net
+- 💞️ I’m looking to collaborate on CAD automation
+- 📫 How to reach me tamil2851@gmail.com
